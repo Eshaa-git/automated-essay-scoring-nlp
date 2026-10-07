@@ -1,0 +1,20 @@
+# Versions recorded in the notebook's Google Colab run (Python 3.10).
+# gensim, nltk and textblob were preinstalled on Colab; their versions were not recorded.
+# tensorflow is pinned to 2.16.1 (Colab had 2.15.0) because 2.15 requires Keras 2, which conflicts with keras 3.3.2 and scikeras 0.13.
+numpy==1.25.2
+pandas==2.0.3
+scikit-learn==1.4.2
+matplotlib==3.7.1
+seaborn==0.13.1
+joblib==1.4.0
+spacy==3.7.4
+pyLDAvis==3.4.1
+language_tool_python==2.8
+skll==5.0.1
+wandb==0.16.6  # skll dependency; version from the Colab run
+tensorflow==2.16.1
+keras==3.3.2
+scikeras==0.13.0
+gensim
+nltk
+textblob

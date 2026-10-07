@@ -1,0 +1,10 @@
+# Dataset files (download from Kaggle; not redistributed here)
+*.tsv
+
+# Intermediate artifacts written by the notebook
+*.pkl
+wordvec_model*
+*.h5
+
+.ipynb_checkpoints/
+.DS_Store
